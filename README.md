@@ -1,1 +1,11 @@
-# khoanguyen.2405
+# Hi 👋, I'm Nguyen Tuan Khoa
+
+A Data Analyst from Vietnam
+
+- 🎓 I'm currently studing at FPT colegge in data processing major
+- 🌱 I'm currently learning **Data pineline, Datawarehouse, Tableau**
+- 📫 How to reach me **zalo: 0834110473**
+- 💪 With continuous learning and effort to become the best version of myself
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]()
