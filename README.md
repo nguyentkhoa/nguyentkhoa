@@ -8,4 +8,4 @@ A Data Analyst from Vietnam
 - 💪 With continuous learning and effort to become the best version of myself
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]()
+- Email: nguyentkhoa.2405@gmail.com
